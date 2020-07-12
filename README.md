@@ -2,7 +2,7 @@
 Comparing the effect of Coronavirus vs. the health of US counties
 
 ## Are healthcare policies, factors, and outcomes related to COVID-19 deaths?
-### Author: Chris Walter - [chriswalter.info/countyhealth](chriswalter.info/countyhealth)
+### Author: Chris Walter - [chriswalter.info/countyhealth](https//:chriswalter.info/countyhealth)
 
 Data sources: 
 
